@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:atrabelsl@elakeheadu.ca"
+  link: "mailto:atrabelsl@lakeheadu.ca"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
