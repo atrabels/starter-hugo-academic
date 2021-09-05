@@ -73,11 +73,11 @@ highlight_name: false
 ---
 <div style="text-align: justify"> 
 
-I am an Assistant Professor of Computer Science at Lakehead University, Thunder Bay, Ontario, Canada. My broad research interests relate to Artificial Intelligence, Applied Machine Leanrning, Data Mining and Natural Language Processing. I work on Unsupervised Automatic Contention Analysis and Summarixation in Unstructured Text, Stance and Dubious Content Detection from Social Media, emotion recognition and generation in conversational text.   
+I am an Assistant Professor of Computer Science at Lakehead University, Thunder Bay, Ontario, Canada. My broad research interests relate to Artificial Intelligence, Applied Machine Leanrning, Data Mining and Natural Language Processing. I work on Unsupervised Automatic Contention Analysis and Summarization in Unstructured Text, Stance and Dubious Content Detection from Social Media, Emotion Recognition and Generation in Conversational Text.   
 
 Prior to this position, I have been a Postdoctoral Fellow of the Alberta Machine Intelligence Institute (Amii) in the Computing Science Department at the University of Alberta, Canada. I completed my Ph.D. at the University of Alberta, under the supervision of Pr. Osmar R. Zaiane.
 I hold an M.Sc. in Computer Science from the University of Montreal, Canada, obtained in 2010. I received my B.Sc. in Computer Science and Management in 2007 from the University of Tunis, Tunisia.
 
-**For upcoming graduate students** interested to working with me, please send me your C.V. and a motivation letter describing your background and potential interest to my research area.</div>
+**For upcoming graduate students** interested to working with me, please send me your C.V. and a cover letter describing your background and potential interest to my research area.</div>
 
 [comment]: <>  ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
