@@ -42,21 +42,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:atrabelsl@lakeheadu.ca"
+  link: "mailto:atrabels@lakeheadu.ca"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AmineTrab
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 - icon: google-scholar      
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=s7WuQs8AAAAJ&hl=en
 #- icon: github
  # icon_pack: fab
   #link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/amine-trabelsi-15bb15187/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,13 +71,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+<div style="text-align: justify"> 
 
-I am currently an Assistant Professor at Lakehead University, Ontario. Previously, I have been a Postdoctoral Fellow in the Computing Science Department at the University of Alberta, Canada.
+I am an Assistant Professor of Computer Science at Lakehead University, Thunder Bay, Ontario, Canada. My broad research interests relate to Artificial Intelligence, Applied Machine Leanrning, Data Mining and Natural Language Processing. I work on Unsupervised Automatic Contention Analysis and Summarixation in Unstructured Text, Stance and Dubious Content Detection from Social Media, emotion recognition and generation in conversational text.   
 
-My research interests relate to Artificial intelligence, Text and Data Mining, Automatic Contention Analysis, Topic Modeling, Opinion Mining, and Machine Learning.
-
-I completed my Ph.D. in the Computing Science Department at the University of Alberta, under the supervision of Pr. Osmar R. Zaiane. I was a member of the Alberta Machine Intelligence Institute (Amii).
-
+Prior to this position, I have been a Postdoctoral Fellow of the Alberta Machine Intelligence Institute (Amii) in the Computing Science Department at the University of Alberta, Canada. I completed my Ph.D. at the University of Alberta, under the supervision of Pr. Osmar R. Zaiane.
 I hold an M.Sc. in Computer Science from the University of Montreal, Canada, obtained in 2010. I received my B.Sc. in Computer Science and Management in 2007 from the University of Tunis, Tunisia.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+**For upcoming graduate students** interested to working with me, please send me your C.V. and a motivation letter describing your background and potential interest to my research area.</div>
+
+[comment]: <>  ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
