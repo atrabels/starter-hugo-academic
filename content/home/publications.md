@@ -40,5 +40,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover relevant content by [filtering publications](./publication/).You can also check my [Google Scholar](https://scholar.google.ca/citations?user=s7WuQs8AAAAJ&hl=en) Profile.
 {{% /callout %}}

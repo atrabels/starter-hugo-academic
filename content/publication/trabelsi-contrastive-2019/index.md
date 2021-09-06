@@ -35,4 +35,8 @@ abstract: ''
 publication: '*Proceedings of the 20th International Conference on Intelligent Text
   Processing for Computational Linguistics (CICLing)*'
 url_pdf: https://drive.google.com/file/d/1dfpQVYDQwLSJt06lMh7la1a6vNuC1Jli/view?usp=sharing
+links:
+ - name: Best Paper Award
+   url: ''
+
 ---
