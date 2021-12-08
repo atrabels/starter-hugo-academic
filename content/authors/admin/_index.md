@@ -78,6 +78,17 @@ I am an Assistant Professor of [Computer Science at Lakehead University](https:/
 Prior to this position, I have been a Postdoctoral Fellow of the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/)   in the [Computing Science Department at the University of Alberta](https://www.ualberta.ca/computing-science/index.html), Canada. I completed my Ph.D. at the University of Alberta, under the supervision of [Prof. Osmar R. Zaïane](https://webdocs.cs.ualberta.ca/~zaiane/).
 I hold an M.Sc. in Computer Science from the University of Montreal, Canada. I received my B.Sc. in Computer Science and Management from the University of Tunis, Tunisia.
 
-**For potential or current graduate students** interested to working with me, please send me your C.V. and a cover letter describing your background and potential interest to my research area.</div>
+<span style="color:red">**For potential or current graduate students:**</span> I am currently looking for enthusiastic and motivated students interested in joining [Lakehead University](https://www.lakeheadu.ca/) thesis-based [M.Sc. program in Computer Science (Specialization in Artificial Intelligence](https://www.lakeheadu.ca/programs/graduate/programs/masters/computer-science) under my supervision in the [Department of Computer Science](https://www.lakeheadu.ca/programs/undergraduate-programs/computer-science). The targeted starting date is September 2022, i.e., the Fall 2022 term (upon admission approval). 
+ 
+The research focus will be on topics related to Natural Language Processing (NLP). These include Mining Anti-social Behaviour in Social Media, Emotion Recognition and Generation in Conversational Text, Stance Detection, and Argumentation Mining and Summarization.
+ 
+Internal funding will be available for the recruited student (covering tuition and living expenses).
+ 
+The student will be joining a recognized [Artificial Intelligence (AI) Master program](https://vectorinstitute.ai/aimasters/#vector-recognized-ai-masters-programs) by the world-renowned [Vector Institute](https://vectorinstitute.ai/). Moreover, the student admitted in Fall 2022 will have the possibility to be nominated by the department (based on an internal ranking) for the [Vector Scholarship in Artificial Intelligence](https://vectorinstitute.ai/scholarship/). The scholarship is valued at C$17500 for one year. Note that some of Lakehead University’s internal deadlines apply for consideration for the scholarship. Hence, students are highly encouraged to apply to the program before the end of January 2022 and preferably in December 2021.
+ 
+**Full details and requirements are provided [here](https://drive.google.com/file/d/1ZR60RVyhqmfENMUvdYN0ogHUXxRVAZzf/view?usp=sharing).**</div> 
+
+
+[comment]: <>  ({{ interested to working with me, please send me your C.V. and a cover letter describing your background and potential interest to my research area.}})
 
 [comment]: <>  ({{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
