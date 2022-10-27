@@ -10,7 +10,7 @@ role: Assistant Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Lakehead University
+- name: Sherbrooke
   url: https://www.lakeheadu.ca/
 
 # Short bio (displayed in user profile at end of posts)
